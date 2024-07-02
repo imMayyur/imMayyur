@@ -23,6 +23,14 @@
 </div>
 
 <p align="center" style="display: flex; justify-content: center">
+  <a href="https://www.credly.com/badges/d9cf43ba-5d4d-4f11-b662-fc797602b5b6/public_url" target="blank">
+    <img
+      src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+      alt="GitHub Foundations"
+      width="100px"
+      height="100px"
+    />
+  </a>
   <a href="https://www.credly.com/badges/0fae3517-cffc-459d-9f94-4acf22701910/public_url" target="blank">
     <img
       src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
